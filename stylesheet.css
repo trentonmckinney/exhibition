@@ -1,0 +1,115 @@
+body {
+	text-align: center;
+	background-color: #4041FF;
+	color: #FEECFF;
+	font-size: 30px;
+	cursor: url(http://cur.cursors-4u.net/cursors/cur-8/cur740.ani), url(http://cur.cursors-4u.net/cursors/cur-8/cur740.png), progress !important;
+	}
+a{
+		color: rgb(0, 0, 0);
+	}
+p{
+		font-size: 30
+		px;
+	}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+.grid{
+	width:cov;
+	height: cover;
+	display: grid;
+}
+.box{
+	color: white;
+	border-radius: 5px;
+	border: 2px white solid;
+	
+}
+.box1{
+	color: white;
+	border-radius: 3px;
+	border: 10px white solid;
+	
+}
+.box2{
+	color: white;
+	border-radius: 3px;
+	border: 10px white solid;
+}
+.box3{
+	color: white;
+	border-radius: 3px;
+	border: 10px white solid;
+}
+.box4{
+	color: white;
+	border-radius: 3px;
+	border: 10px white solid;
+}
+{
+	color: white;
+	border-radius: 3px;
+	border: 2px white solid;
+}
+
+
+li {
+    float: center;
+}
+
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
